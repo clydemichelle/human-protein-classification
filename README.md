@@ -13,6 +13,6 @@ This is a multilabel image classification problem, where each image can belong t
 8: 'Centrosome',
 9: 'Nuclear speckles'
 
-Currently the accuracy is 0.6127
-Learning Rate: 1e-4
-Number of Epochs : 2
+Currently the accuracy is 0.6127; 
+Learning Rate: 1e-4;
+Number of Epochs : 2.
